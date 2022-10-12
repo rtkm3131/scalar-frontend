@@ -2,7 +2,6 @@
 
 Create a simple app where admins can create interviews by selecting participants, interview start time and end time
 
-### Deployed here : https://interview-creation-portal-ibaf.herokuapp.com/
 
 ## Basic Requirements
 
