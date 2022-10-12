@@ -15,7 +15,7 @@ Create a simple app where admins can create interviews by selecting participants
 
 - Clone this repository.
 - Execute `npm install`
-- Make sure [backend](https://github.com/Ashish0077/InterviewCreationPortal_IBA) is running.
+- Make sure Backend is running.
 - Execute `npm start`.
 - App will start running at `http://localhost:3001/`
 
