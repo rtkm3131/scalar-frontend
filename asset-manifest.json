@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/scalar-frontend/static/css/main.c23a19cc.chunk.css",
+    "main.js": "/scalar-frontend/static/js/main.08db301d.chunk.js",
+    "main.js.map": "/scalar-frontend/static/js/main.08db301d.chunk.js.map",
+    "runtime-main.js": "/scalar-frontend/static/js/runtime-main.3a9b24e4.js",
+    "runtime-main.js.map": "/scalar-frontend/static/js/runtime-main.3a9b24e4.js.map",
+    "static/js/2.b530d67d.chunk.js": "/scalar-frontend/static/js/2.b530d67d.chunk.js",
+    "static/js/2.b530d67d.chunk.js.map": "/scalar-frontend/static/js/2.b530d67d.chunk.js.map",
+    "index.html": "/scalar-frontend/index.html",
+    "static/css/main.c23a19cc.chunk.css.map": "/scalar-frontend/static/css/main.c23a19cc.chunk.css.map",
+    "static/js/2.b530d67d.chunk.js.LICENSE.txt": "/scalar-frontend/static/js/2.b530d67d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a9b24e4.js",
+    "static/js/2.b530d67d.chunk.js",
+    "static/css/main.c23a19cc.chunk.css",
+    "static/js/main.08db301d.chunk.js"
+  ]
+}
