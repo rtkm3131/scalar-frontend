@@ -1,0 +1,74 @@
+
+.create input, .create textarea, .create select {
+    color: white !important; 
+    /* height: 2.5rem; */
+}
+*{
+    background-color: #212529 !important;
+}
+
+input[type="select" i]
+{
+    color: white !important;
+}
+
+input[type="date" i]{
+    height: 3.5rem !important;
+    border-radius: 5px !important;
+    font-weight: 300 !important;
+}
+
+input[type="time" i]{
+    height: 3.5rem !important;
+    border-radius: 5px !important;
+    font-weight: 300 !important;
+}
+
+.css-yk16xz-control{
+    font: black !important;
+}
+
+
+.select__control--menu-is-open{
+    color: black !important;
+}
+
+.css-tj5bde-Svg{
+    fill: white !important;
+}
+
+.select__indicators {
+    color: black !important;
+}
+
+
+.select__value-container .select__value-container--is-multi .css-g1d714-ValueContainer{
+    background-color: white !important;
+}
+
+
+.css-2613qy-menu{
+    /* background-color: black !important; */
+    color: black !important;
+}
+
+.css-g1d714-ValueContainer{
+    color: black !important;
+    font-weight: 300 !important;
+}
+
+
+.css-1okebmr-indicatorSeparator
+{
+    background-color: black !important;
+}
+
+.css-12jo7m5{
+    color: white !important;
+    font-weight: 400 !important;
+}
+
+/* .css-tj5bde-Svg{
+    fill: black;
+    color: black;
+} */
